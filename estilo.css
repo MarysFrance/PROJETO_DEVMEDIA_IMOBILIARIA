@@ -1,0 +1,57 @@
+body {
+    font-family: Tahoma;
+    margin: 0;
+    text-align: center;
+}
+.primeira-secao img {
+    width: 300px;
+    background-color: #d0d2f0;
+}
+.primeira-secao a {
+    font-size: 18px;
+    text-align: center;
+    padding: 10px;
+    color: navy;
+    margin: 0 10px;
+}
+.primeira-secao{
+    background-color: #d0d2f0;
+    padding: 30px;
+}
+.segunda-secao {
+    margin-top: 30px;
+}
+.segunda-secao img {
+    width: 1800px;
+    height: 500px;
+    margin: 50px;
+}
+h1 {
+    font-size:24px;
+    color: NAVY;
+}
+h2 {
+    font-size:20px;
+    color: #c21919;
+    font-style: italic;
+    margin-bottom: 40px;
+}
+.terceira-secao img {
+    width: 500px;
+}
+.terceira-secao p {
+    text-align: center;
+    margin-top: 40px 0;
+    text-align: center;
+    text-align: justify;
+}
+.terceira-secao span {
+    color: #c21919;
+    font-weight: bold;
+}
+h3 {
+    font-size: 18px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+}
